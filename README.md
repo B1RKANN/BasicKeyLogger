@@ -2,7 +2,7 @@
 
 ## 📋 Proje Açıklaması
 
-Bu proje, **Nesne Tabanlı Programlama Dersi Ödevi** kapsamında geliştirilmiş profesyonel bir klavye giriş kayıt sistemidir. Uygulama, kullanıcının klavye girişlerini gerçek zamanlı olarak kaydeder ve bu verileri güvenli bir şekilde AWS S3 bulut depolama servisine yükler.
+Bu proje, **Nesne Tabanlı Programlama Dersi Ödevi** kapsamında geliştirilmiş Basic bir klavye giriş kayıt sistemidir. Uygulama, kullanıcının klavye girişlerini gerçek zamanlı olarak kaydeder ve bu verileri güvenli bir şekilde AWS S3 bulut depolama servisine yükler.
 
 ### 🎯 Proje Özellikleri
 
